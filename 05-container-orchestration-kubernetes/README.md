@@ -153,6 +153,6 @@
 - Certified Kubernetes Security Specialist (CKS)
 
 ### Practice
-- [Kubernetes Playground](https://www.katacoda.com/courses/kubernetes)
-- [Play with Kubernetes](https://labs.play-with-k8s.com/)
 - [KillerCoda Kubernetes](https://killercoda.com/kubernetes)
+- [Play with Kubernetes](https://labs.play-with-k8s.com/)
+- [Kubernetes Learning Environment](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
