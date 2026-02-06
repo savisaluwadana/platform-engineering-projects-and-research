@@ -97,6 +97,9 @@ Apply security principles and best practices across the platform engineering lif
 
 ## 🚀 Getting Started
 
+### New to Platform Engineering?
+**👉 Start here: [QUICK-START.md](./QUICK-START.md)** - Get up and running in 5 minutes!
+
 ### Prerequisites
 - Basic understanding of command line interfaces
 - Familiarity with at least one programming language
@@ -105,11 +108,11 @@ Apply security principles and best practices across the platform engineering lif
 
 ### How to Use This Repository
 
-1. **Start with Module 01**: Begin with Linux Fundamentals and work through sequentially
-2. **Complete Theory First**: Read and understand the concepts before starting projects
-3. **Build Projects**: Start with beginner projects and progress to advanced ones
-4. **Hands-On Practice**: Set up your own lab environment for experimentation
-5. **Contribute**: Share your implementations and learnings with the community
+1. **Quick Start**: Follow the [Quick Start Guide](./QUICK-START.md) for immediate hands-on learning
+2. **Structured Learning**: Use the [Roadmap](./ROADMAP.md) for a detailed learning path
+3. **Project Ideas**: Browse [Project Ideas](./PROJECT-IDEAS.md) for inspiration
+4. **Resources**: Check [Resources](./RESOURCES.md) for books, courses, and tools
+5. **Contribute**: Read [Contributing Guide](./CONTRIBUTING.md) to share your work
 
 ### Recommended Learning Path
 
